@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(196, 207, 255);
+    text-align: center;
+    margin: 0px;
+}
+
+/**Configurar DIV do conteúdo da página Inicial**/
+.Config{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+.Estilo{
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    border-style: solid;
+}
